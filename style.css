@@ -1,7 +1,17 @@
+body {
+  background-color: rgb(242, 234, 247);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 a {
   font-size: 20px;
+  color: black;
 }
 
 h1 {
   text-align: center;
+}
+
+li {
+  margin: 15px 0;
 }
